@@ -1,0 +1,30 @@
+
+body {
+
+     background: #3bbfbf;
+  font-size: 14px;
+  line-height: 22px;
+  color:#660000 ;
+ 
+ }
+.bold {
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  }
+  
+.semi-bold {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.resume {
+  width: 800px;
+  height: auto;
+  display: flex;
+  margin: 50px auto;
+}
+
+
+
+
